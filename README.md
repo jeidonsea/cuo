@@ -56,7 +56,7 @@ The following is optional but makes life more enjoyable :
 which make
 ```
 
-On Ubuntu and Debian these are available in the meta-package build-essential. On other distributions, you may need to install the GNU C++ compiler separately.
+On Ubuntu and Debian these are available in the meta-package build-essential. On other distributions, you may need to install the GNU C++ compiler separately. (not applicable to MacOS)
 
 ```sh
 sudo apt install build-essential
